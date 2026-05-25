@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI",
+  "description": "A premium AI workflow and personalization interface featuring high-fidelity bento grids, full-featured prompt templates, settings customizations, and active chat capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
